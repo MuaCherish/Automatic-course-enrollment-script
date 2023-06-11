@@ -36,9 +36,9 @@ index = [(933, 1737), (769, 937)] # 鼠标坐标记录
 ```
 
 3.   <font color = "orange">刷课模板.py</font>：
-	- 自定义你自己的Display_x和Display_y范围
-	- 自定义你自己的index监听数据
-	- 运行<font color = "orange">刷课模板.py</font>.
+        - 自定义你自己的Display_x和Display_y范围
+        - 自定义你自己的index监听数据
+        - 运行<font color = "orange">刷课模板.py</font>.
 
 ---
 
