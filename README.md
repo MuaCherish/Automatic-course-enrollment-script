@@ -1,8 +1,13 @@
 # Automatic-course-enrollment-script
 ps:一个使用python做的刷一些水课的脚本
 
----
 
+## 索引
+- [前言](#前言)
+- [用户配置](#:gear:用户配置)
+- [后言](#后言)
+- [帮助文档](#帮助文档)
+- [其他](#其他)
 
 
 ## :tropical_fish:前言：
